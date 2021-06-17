@@ -18,3 +18,9 @@
 `
     $ cnpm i jsonwebtoken
 `
+
+#### 启动项目
+`
+    $ node server.js  或者
+    $ supervisor server.js
+`
